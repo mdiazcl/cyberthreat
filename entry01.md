@@ -1,4 +1,4 @@
-![Entry banner](http://i.imgur.com/pkYCkhy.png "Entry banner")
+![Entry banner](http://i.imgur.com/2tHHsEr.png "Entry banner")
 # Unathorized Password Reset via Email Reply (CVE-2017-8295)
 ## Ficha de vulnerabilidad
   %|% 
