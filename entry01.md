@@ -1,4 +1,4 @@
-![Entry banner](http://i.imgur.com/pkYCkhy.png "Entry banner")
+![Entry banner](http://i.imgur.com/2tHHsEr.png "Entry banner")
 # Unathorized Password Reset via Email Reply (CVE-2017-8295)
 ## Ficha de vulnerabilidad
   %|% 
@@ -11,7 +11,7 @@
 **Fuentes:**	    | https://exploitbox.io/vuln/WordPress-Exploit-4-7-Unauth-Password-Reset-0day-CVE-2017-8295.html
 ~		    | https://nvd.nist.gov/vuln/detail/CVE-2017-8295
 ~		    | https://www.exploit-db.com/exploits/41963/
-**Exploit Disponible:** | Sí - [wp-cve-2017-8296.py](https://github.com/mdiazcl/ciberthreat/blob/master/exploits/wordpress/wp-cve-2017-8296.py)
+**Exploit Disponible:** | Sí (Parcial) - [wp-cve-2017-8296.py](https://github.com/mdiazcl/cyberthreat/blob/master/exploits/wordpress/wp-cve-2017-8296.py)
 **Fecha Exposición:** | 03/mayo/2017
 
 ## Resumen a alto nivel
@@ -36,7 +36,7 @@ Si el atacante engaña a Wordpress (utilizando el exploit) para que envíe el co
 
 La dificultad del ataque está en generar la disrupción del servicio en el servidor de correo. Si el usuario utiliza servidores de correo robustos es bastante más complejo realizar este ataque.
 
-La vulnerabilidad afecta a toda instalación de Wordpress a la fecha. No existe solución por parte del equipo de Wordpress, sin embargo se propone mitigar la vulnerabilidad realizar una pequeña configuración en el servidor web (ver sección técnica).
+La vulnerabilidad afecta a toda instalación de Wordpress a la fecha. No existe solución por parte del equipo de Wordpress, sin embargo en esta entrada se propone una mitigación consistente en realizar una pequeña configuración en el servidor web (ver sección técnica).
 
 ## Explicación Técnica
 La vulnerabilidad, tal como explica el resumen de alto nivel reside en la forma en que Wordpress envía el correo de recuperar contraseña a un usuario en particular. Si se inspecciona el código ubicado en `wp-includes/pluggable.php`
