@@ -11,7 +11,7 @@
 **Fuentes:**	    | https://exploitbox.io/vuln/WordPress-Exploit-4-7-Unauth-Password-Reset-0day-CVE-2017-8295.html
 ~		    | https://nvd.nist.gov/vuln/detail/CVE-2017-8295
 ~		    | https://www.exploit-db.com/exploits/41963/
-**Exploit Disponible:** | Sí (Parcial) - [wp-cve-2017-8296.py](https://github.com/mdiazcl/cyberthreat/blob/master/exploits/wordpress/wp-cve-2017-8296.py)
+**Exploit Disponible:** | Sí (Parcial) - [wp-cve-2017-8296.py](https://github.com/mdiazcl/cyberthreat/blob/master/exploits/wordpress/cve-2017-8296/wp-cve-2017-8296.py)
 **Fecha Exposición:** | 03/mayo/2017
 
 ## Resumen a alto nivel
