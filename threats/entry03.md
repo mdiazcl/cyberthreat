@@ -1,4 +1,4 @@
-![Entry banner](http://i.imgur.com/w9ZJ85H.png)
+![Entry banner](http://i.imgur.com/9uGULA3.png)
 
 # Keylogger Presente en driver de audio Equipos HP (CVE-2017-5689)
 ---
