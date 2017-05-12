@@ -9,7 +9,7 @@
 **Severidad:**      | Media
 **Vector**          | No Aplica
 **Descubierto por:**| modzero (https://www.modzero.ch).
-**Afecta a:**       | Equipos HP serie Elitebook, ProBook, ZBook, Elite [(Lista detallada)](https://www.modzero.ch/advisories/MZ-17-01-Conexant-Keylogger.txt)
+**Afecta a:**       | Equipos HP serie Elitebook, ProBook, ZBook, Elite [(Lista detallada)](https://github.com/mdiazcl/cyberthreat/blob/master/threats/entry03files/hp_affected_machines.md)
 **Fuentes:**        | https://www.modzero.ch/modlog/archives/2017/05/11/en_keylogger_in_hewlett-packard_audio_driver/index.html
 ~                   | http://thehackernews.com/2017/05/hp-audio-driver-laptop-keylogger.html
 ~                   | https://security.stackexchange.com/questions/159219/whats-my-exposure-and-how-to-close-it-from-conexant-hd-audio-driver-package
