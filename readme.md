@@ -1,3 +1,5 @@
+# Proyecto congelado por falta de tiempo (LastUpdt: 17/oct/2017) :(
+
 # Cyberthreat Chile
 ## Últimas amenazas registradas
 
